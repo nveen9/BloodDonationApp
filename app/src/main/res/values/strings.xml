@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blood Donation</string>
+    <string name="title_activity_location_pick">locationPick</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/drawable-v24/button_bg.xml" value="0.219" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/drawable-v24/edit_text_bg.xml" value="0.206" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.206" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/drawable-v24/view_bg.xml" value="0.206" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/drawable/add_img.xml" value="0.219" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/drawable/button_bg_reg.xml" value="0.219" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.206" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/drawable/location_start.xml" value="0.206" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/drawable/search_icon.xml" value="0.219" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/drawable/v.xml" value="0.219" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_admin.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_card_upload.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_donnie_tab_fragment.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_donor_account.xml" value="0.2" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_donor_listing.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_donor_tab_fragment.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_location_pick.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_login.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_main2.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_register.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_register_frag_main.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/activity_user_donor_account.xml" value="0.2" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/card_upload_list.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/donorfrag.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/image_item.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/BloodDonation/app/src/main/res/layout/list.xml" value="0.20854700854700856" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

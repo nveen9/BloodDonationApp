@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="probar" parent="Widget.AppCompat.ProgressBar">
+        <!-- reference our hint & error styles -->
+        <item name="colorControlNormal">#FF0000</item>
+        <item name="colorControlActivated">#FF0000</item>
+        <item name="colorControlHighlight">#FF0000</item>
+    </style>
+    <style name="searchbar" parent="Widget.AppCompat.SearchView">
+        <!-- reference our hint & error styles -->
+        <item name="android:textSize">15dp</item>
+        <item name="android:editTextColor">@color/black</item>
+        <item name="android:textColorHint">#D5D5D5</item>
+        <item name="colorControlActivated">#FF0000</item>
+        <item name="colorControlHighlight">#FF0000</item>
+    </style>
+    <style name="searchbar1" parent="Widget.AppCompat.SearchView">
+        <!-- reference our hint & error styles -->
+        <item name="android:textSize">15dp</item>
+        <item name="colorControlActivated">#FF0000</item>
+        <item name="colorControlHighlight">#FF0000</item>
+    </style>
+</resources>
